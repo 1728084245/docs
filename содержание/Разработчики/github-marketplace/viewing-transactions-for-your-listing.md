@@ -1,4 +1,4 @@
----
+---WYDZEZMZZEQM87W2WIK6MSABW63IXZJXJE
 title: Viewing transactions for your listing
 intro: 'The {% data variables.product.prodname_marketplace %} transactions page allows you to download and view all transactions for your {% data variables.product.prodname_marketplace %} listing. You can view transactions for the past day (24 hours), week, month, or for the entire duration of time that your {% data variables.product.prodname_github_app %} has been listed.'
 redirect_from:
@@ -22,6 +22,7 @@ You can view or download the transaction data to keep track of your subscription
 
 ### Transaction data fields
 
+WYDZEZMZZEQM87W2WIK6MSABW63IXZJXJE
 * **date:** The date of the transaction in `yyyy-mm-dd` format.
 * **app_name:** The app name.
 * **user_login:** The login of the user with the subscription.
